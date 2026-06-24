@@ -41,4 +41,4 @@ An innovative project currently under active development. Stay tuned for updates
 
 ## 📬 Let's Connect!
 
-- 💼 **LinkedIn:** [linkedin.com/in/kamalparashar]
+- 💼 **LinkedIn:** [https://linkedin.com/in/kamalparashar]
